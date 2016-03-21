@@ -5,7 +5,7 @@ BDD(Behavior Driven Development) integration plugin for CakePHP2
 
 Copyright(c) 2012 Sizuhiko. Licensed under the MIT license.
 
-## Overview
+## Overview---
 
 This plugin focuses on BDD for CakePHP application development.
 Like a Ruby on Rails, we can use 2 frameworks that are Story and Spec on CakePHP2.
